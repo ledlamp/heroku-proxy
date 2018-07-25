@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start":"node index.js"
+  },
   "dependencies": {
     "http-proxy": "^1.17.0",
     "url": "^0.11.0"
